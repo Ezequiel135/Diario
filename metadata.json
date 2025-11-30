@@ -1,0 +1,8 @@
+{
+  "name": "Diário Pessoal Offline",
+  "description": "Um diário pessoal seguro, offline e rico em recursos com suporte a multimídia, humor e estatísticas.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
